@@ -1,0 +1,6 @@
+{
+  "name": "Mpcodemonkey.GitHub.io",
+  "tagline": "Main Website for mpcodemonkey's projects",
+  "body": "##Introduction\r\nWelcome to my project site! My name is Jonathan Tinney, and I'm currently finishing up my Master's Degree in Computer Science at California State University, Sacramento. I have a few years of experience in writing Java applications, but am currently branching out to JavaScript via WebGL to work on a web based game engine for my master's project. My specialty is in game engineering, but I have also dabbled in software engineering, as well as a bit of cyber security.\r\n\r\n## Current Projects\r\n* [MVRE](https://mpcodemonkey.github.io/mvre/), a WebGL based game engine that supports VR\r\n* [SGLP](https://mpcodemonkey.github.io/sglp/), a game launching platform for the SAGE engine\r\n\r\n## Previous Projects\r\n* [Transparency-Demo](https://mpcodemonkey.github.io/transparency-demo/), a demo of the transparency functions supported by SAGE\r\n\r\n## Contact\r\nYou can contact me at my email address [here](mailto:jonathanrtinney@gmail.com)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
